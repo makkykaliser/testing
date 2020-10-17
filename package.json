@@ -1,0 +1,16 @@
+{
+  "name": "testcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gameing.js",
+  "dependencies": {
+    "browser-sync": "^2.26.12",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
